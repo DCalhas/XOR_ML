@@ -1,4 +1,6 @@
 #!usr/bin/python
+
+#FEEDFORWARD NEURAL NETWORK ---- INPUT LAYER, HIDDEN LAYERS AND OUTPUT LAYER
 from numpy import exp, array, random, dot
 
 
